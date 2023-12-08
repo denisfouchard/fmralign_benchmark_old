@@ -16,6 +16,7 @@ We benchmark the following methods:
 * FastSRM
 * Optimal Transport
 * FUGW
+* Hyperalignment
 
 on five different datasets:
 
